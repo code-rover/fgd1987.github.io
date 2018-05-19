@@ -1,7 +1,7 @@
 {
-  "name": "Hux Blog",
-  "short_name": "Hux Blog",
-  "description": "About an engineer & designer who loves web.",
+  "name": "随记",
+  "short_name": "随记",
+  "description": "工作并快乐着",
   "icons": [{
     "src": "icons/128.png",
     "sizes": "128x128",
